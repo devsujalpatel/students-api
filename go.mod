@@ -1,3 +1,3 @@
-module github.com/devsujalpatel/student-api
+module github.com/devsujalpatel/students-api
 
 go 1.24.4
